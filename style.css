@@ -1,0 +1,40 @@
+*{
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+  }
+  #main h1{
+    text-align: center;
+    color: white;
+  }
+  #img-caption{
+    width: 400px;
+    text-align: center;
+    border: 3px solid white;
+    margin-bottom: 10px;
+  }
+  #tribute-info{
+    text-align: center;
+    border: 3px solid white;
+    width: 300px;
+  }
+  #tribute-info p{
+    font-weight: bold;
+    font-size: 30px;
+  }
+  #title a{
+    text-decoration: none;
+    color: black;
+  }
+  #tribute-info a{
+    text-decoration: none;
+    color: black;
+  }
+  #image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: 100%;
+  }
+  
+  
