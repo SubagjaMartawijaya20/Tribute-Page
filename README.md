@@ -1,2 +1,2 @@
 # Tribute-Page
-Challange build tribute page dari https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+Challenge build tribute page dari https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
